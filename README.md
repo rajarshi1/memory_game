@@ -1,1 +1,1 @@
-# project live @ http://www.rajarshi.ga/memory_game/
+# project live @ https://rajarshi1.github.io/memory_game/
